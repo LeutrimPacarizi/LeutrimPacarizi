@@ -1,16 +1,16 @@
 title:              Leutrim's Blog
 email:              Leutrim.pacarizi@gmx.de
-description:        A Blog Theme by Start Bootstrap
+description:        M.Sc. Nanoscience granduate, scientist and solar cell researcher
 author:             Leutrim Pacarizi
-baseurl:            "/LeutrimPacarizi"
+baseurl:            
 url:                "https://LeutrimPacarizi.github.io"
 
 # Social Profiles
 twitter_username:   
-github_username:    
+github_username:    LeutrimPacarizi
 facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username:  Leutrim-pacarizi
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
